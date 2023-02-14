@@ -1,0 +1,43 @@
+.auth-card{
+    padding:20px;
+    background-color: rgb(201, 196, 196);
+    width: 500px;
+    margin:30px auto
+}
+.auth-card h3{
+
+    font-weight: 1500;
+    color: rgb(0, 0, 0);
+}
+.auth-card p{
+    font: size 13px ;
+    color: black;
+}
+.auth-card .form-control{
+    height: 50px;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.auth-card a{
+    font-size: 14px;
+    font-weight: 400;
+}
+.auth-card button{
+    background-color: rgb(251, 247, 247);
+    color:black;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+    
+
+}
+.auth-card .button{
+    margin: 10px;
+}
+
+.auth-card .button:hover{
+    background-color: rgb(158, 37, 37);
+}
