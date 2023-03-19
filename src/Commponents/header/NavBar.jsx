@@ -10,7 +10,7 @@ export const NavBar = () => {
         <main className='main-navbar'>
             <nav className="navbar navbar-expand-lg navbar-light  py-3 shadow-sm ">
                 <div className="container">
-                    <a id='kist' className="navbar-brand fw-bold fs-4" href="#"><h2> Kist Colllection </h2></a>
+                    <a id='kist' className="navbar-brand fw-bold fs-4" href="#"><h2> Kist Collection </h2></a>
                    
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">

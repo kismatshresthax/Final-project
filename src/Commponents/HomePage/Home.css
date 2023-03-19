@@ -17,9 +17,11 @@
   margin-top: 15rem;
 }
   
-  .card div h1,p{
+  .card div h1 .card-text{
    
-    color: rgb(0, 0, 0);
+    color: rgb(252, 252, 252) ;
+    
+    font-weight: bold;
    
 
   }
@@ -38,7 +40,7 @@
   box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
   background-color: var(--background1);
   width: 23%;
-  height: 400px;
+  height: 250px;
   padding: 15px 0;
   border-radius: 10px;
   margin-top: 5px;

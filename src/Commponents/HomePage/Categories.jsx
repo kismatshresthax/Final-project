@@ -9,33 +9,22 @@ const Categories = () => {
       <div className='category'>
         
             <div className='box f_flex' >
-              <img src='' alt='' />
+              <img src='img/mg10.png' alt='' />
               <Link to='/Latest'><button>Fashion</button></Link>
             </div>
             <div className='box f_flex' >
-              <img src='' alt='' />
-              <Link to='/electrical'><button>Electrical</button></Link>
+              <img src='img/mg12.png' alt='' />
+              <Link to='/electrical'><button >Electronics</button></Link>
             </div>
             <div className='box f_flex' >
-              <img src='' alt='' />
+              <img src='img/mg11.png' alt='' />
               <button>Cars</button>
             </div>
             <div className='box f_flex' >
-              <img  alt='' />
+              <img src="img/mg9.png"  alt='' />
               <button>Gifts</button>
             </div>
-            <div className='box f_flex' >
-              <img  alt='' />
-              <button>Music</button>
-            </div>
-            <div className='box f_flex' >
-              <img src='' alt='' />
-              <button>Health & Beauty</button>
-            </div>
-            <div className='box f_flex' >
-              <img src='' alt='' />
-              <button>Baby Toys</button>
-            </div>
+           
             
          
        
